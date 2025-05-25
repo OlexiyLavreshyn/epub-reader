@@ -1,0 +1,25 @@
+.All{
+top: 0;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.All-Chapter{
+  width: 900px;
+  margin-top: 60px;
+  
+}
+
+.Main{
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Sidebar{
+width: 200px;
+padding: 1rem;
+z-index: 1;
+}
